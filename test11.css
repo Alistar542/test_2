@@ -1,0 +1,140 @@
+﻿
+body {
+    padding:0px;
+    margin:0px;
+   
+}
+ul {
+    position:fixed;
+    top:0;
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #546e7a;
+    height: 50px;
+    width: 100%;
+    
+}
+
+li {
+    display:inline;
+    float: left;
+    width: 141px;
+    height: 56px;
+    margin-left: 3px;
+   
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    height: 30px;
+    width: 111px;
+   
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.textf {
+    border: 2px solid #71a8e4;
+    height:20px;
+    width:150px;
+    
+    margin-top:10px;
+    padding-top:2px;
+    margin-bottom:10px;
+    padding-bottom:2px;
+    border-radius: 5px;
+    align-content:center;
+}
+
+.tabtop {
+    float:right;
+}
+
+
+
+.loginbtn {
+   
+    margin-top:10px;
+    padding-top:2px;
+    margin-bottom:10px;
+    padding-bottom:5px;
+    color:white;
+    background-color:#315deb;
+    height:30px;
+    width:70px;
+    border:1px;
+    border-radius:3px;
+    align-content:center;
+}
+
+.txli {
+    width:200px;
+    height:56px;
+    float:right;
+}
+.btable {
+    background-image:url('images/this_1p.jpg'); height:100%;
+    background-size:cover;
+    background-attachment:fixed;
+    margin:0px;
+    padding:0px;
+    width:100%;
+    
+
+}
+
+.stxt {
+    border: 2px solid #71a8e4;
+    height:35px;
+    width:200px;
+     border-radius: 5px;
+    align-content:center;
+
+}
+
+.tdsi {
+    height:50px;
+    align-content:center;
+    align-items:center;
+    text-align: center;
+}
+
+.tbbl {
+    width:785px;
+    height:auto;
+}
+
+.tbind {
+    width:500px;
+    background-color:#ededed;
+    border-radius:5px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    margin-top:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:10px;
+   
+}
+.tdind {
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:5px;
+    margin-top:5px;
+    padding-bottom:5px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:5px;
+
+}
+
